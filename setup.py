@@ -18,11 +18,10 @@ def get_requirements(file_path:str)->List[str]:
             
     return requirements
 
-
 setup(
-name='dsproject1',
+name='dsprojeects1',
 version='0.0.1',
-author='Md. Rakibul Islam',
+author='Md.Rakibul Islam',
 author_email='rakibrohan54@gmail.com',
 packages=find_packages(),
 install_requires=get_requirements('requirements.txt')

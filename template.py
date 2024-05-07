@@ -4,7 +4,7 @@ import logging
 
 logging.basicConfig(level=logging.INFO)
 
-project_name="dsproject1"
+project_name="dsprojects1"
 
 list_of_files=[
     f"src/{project_name}/__init__.py",
