@@ -1,7 +1,7 @@
 import os
 import sys
-from src.dsprojects1.exception import CustomException
-from src.dsprojects1.logger import logging
+from srce.dsprojects1.exception import CustomException
+from srce.dsprojects1.logger import logging
 import pandas as pd
 from dotenv import load_dotenv
 import pymysql
