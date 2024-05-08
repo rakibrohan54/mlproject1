@@ -1,9 +1,9 @@
 import os
 import sys
-from src.dsprojects1.exception import CustomException
-from src.dsprojects1.logger import logging
+from srce.dsprojects1.exception import CustomException
+from srce.dsprojects1.logger import logging
 import pandas as pd
-from src.dsprojects1.utils import read_sql_data
+from srce.dsprojects1.utils import read_sql_data
 from sklearn.model_selection import train_test_split
 
 from dataclasses import dataclass
