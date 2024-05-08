@@ -14,19 +14,22 @@ user=os.getenv("user")
 password=os.getenv("password")
 db=os.getenv('db')
 
-def raed_sql_data():
+
+
+def read_sql_data():
     logging.info("Reading SQL database started")
     try:
-      mydb=pymysql.connect(
-         host=host,
-         user=user,
-         password=password,
-         db=db
-      )
-      logging.info("connection Establish",mydb)
-      df=pd.read_sql_query('Select * from students',mydb)
-      print(df.haed())
+        mydb=pymysql.connect(
+            host=host,
+            user=user,
+            password=password,
+            db=db
+        )
+        logging.info("Connection Established",mydb)
+        df=pd.read_sql_query('Select * from students',mydb)
+        print(df.head())
 
-      return df
+        return df
+    
     except Exception as ex:
        raise CustomException(ex)
