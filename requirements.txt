@@ -1,9 +1,14 @@
 numpy
 pandas
+matplotlib
 python-dotenv
 mysql-connector-python
 pymysql
 scikit-learn
 seaborn
-
+catboost
+xgboost
+mlflow==2.2.2
+Flask
+dill
 -e .
