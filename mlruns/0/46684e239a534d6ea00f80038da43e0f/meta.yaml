@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MY/dsproject1/mlruns/0/46684e239a534d6ea00f80038da43e0f/artifacts
+end_time: 1715231885458
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 46684e239a534d6ea00f80038da43e0f
+run_name: industrious-hen-578
+run_uuid: 46684e239a534d6ea00f80038da43e0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715231877914
+status: 3
+tags: []
+user_id: root
