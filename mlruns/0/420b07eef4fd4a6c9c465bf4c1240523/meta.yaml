@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MY/dsproject1/mlruns/0/420b07eef4fd4a6c9c465bf4c1240523/artifacts
+end_time: 1715335834434
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 420b07eef4fd4a6c9c465bf4c1240523
+run_name: merciful-newt-115
+run_uuid: 420b07eef4fd4a6c9c465bf4c1240523
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715335825482
+status: 3
+tags: []
+user_id: root
