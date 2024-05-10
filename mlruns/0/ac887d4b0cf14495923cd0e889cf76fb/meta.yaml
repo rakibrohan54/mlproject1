@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MY/dsproject1/mlruns/0/ac887d4b0cf14495923cd0e889cf76fb/artifacts
+end_time: 1715347045100
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ac887d4b0cf14495923cd0e889cf76fb
+run_name: flawless-conch-750
+run_uuid: ac887d4b0cf14495923cd0e889cf76fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715347038811
+status: 3
+tags: []
+user_id: root
