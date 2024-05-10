@@ -1,5 +1,3 @@
-## End to End Data Science Project
-
 ## Student Performance Indicator(End to End ML Project)
 - This project understands how the student's performance (test scores) is affected by other variables such as Gender, Ethnicity, Parental level of education, Lunch and Test preparation course.
 - Dataset Source - https://www.kaggle.com/datasets/spscientist/students-performance-in-exams?datasetId=74977
@@ -13,7 +11,7 @@
 - test preparation course : complete or not complete before test
 - math score
 - reading score
-- writing score
+- writing score.
 
 
 
